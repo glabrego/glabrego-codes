@@ -2,7 +2,7 @@ source "https://rubygems.org"
 
 ruby "2.2.1"
 
-gem "activerecord", "~> 4.1"
+gem "activerecord", "~> 4.2"
 gem "database_cleaner"
 gem "factory_girl"
 gem "rspec", "~> 3.1"
